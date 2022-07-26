@@ -1,1 +1,1 @@
-repository for leetcode problem solved
+repository for leetcode problems
